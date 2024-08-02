@@ -18,9 +18,18 @@ Used to commit changes to the respository so changes can be tracked. Changes sho
 
 [A useful guide for good commit messages](https://cbea.ms/git-commit/)
 
+## git log
+
+The log command allows users to view past commits, the message and who made the commit. Other commands can be used for the log such as diff to get more detail about the changes.
+
+## git push
+
+Send the changes and commits to the remote repository.
+
 ## git clone
 
 Used to clone a git repository to make changes. Cloning via [ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
 ## git fork
 
+Used to copy the original repository to make changes without pushing to the original repository.
